@@ -1,0 +1,2 @@
+# mangahot.com
+nice
