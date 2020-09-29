@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <HTML class='ltr no-js rwd index' dir='ltr'>
 <head>
 <link href='https://www.blogger.com/static/v1/widgets/14020288-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
